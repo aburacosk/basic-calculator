@@ -1,10 +1,10 @@
 # Basic Calculator (Python)
 
-Developing a calculator as part of a github initiation project 
+Create calculator as part of a github initiation project 
 
 ### ➕ Specifications | Calculator
 
-Just a basic calculator capable of doing add, subtaction, multiply, division and 'raised at power' operations
+Just a basic calculator capable of doing add, subtaction, multiply, division and exponential operations
 
 
 ## 📋  Prerequisites
